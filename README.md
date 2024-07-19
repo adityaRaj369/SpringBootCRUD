@@ -1,7 +1,7 @@
 # spring-boot-crud
-Implementing the spring boot crud operations on student entity by using Postman Rest api
+SpringBoot Crud Implementation
 
-Rest API request for Postman Rest API:
+Use below to test the api using PostMan
 
 1. Save student:      POST http://localhost:8080/student
 2. Get student by Id: GET http://localhost:8080/student/{id}
